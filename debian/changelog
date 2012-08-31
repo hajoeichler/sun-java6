@@ -1,3 +1,10 @@
+sun-java6 (6.35-1) unstable; urgency=low
+
+  * SECURITY UPDATE: multiple upstream vulnerabilities. Upstream fixes:
+     - (CVE-2012-4681 - US-CERT Alert TA12-240A and Vulnerability Note VU#636312: unspecified vulnerability fixed in 6u33 (Security)
+
+ -- Hajo Eichler <eichler.hajoe@googlemail.com>  Fri, 31 Aug 2012 12:16:00 +0200
+
 sun-java6 (6.34-1) unstable; urgency=low
 
   * Fix building on lenny with lib32asound2 from lenny-backports on amd64
