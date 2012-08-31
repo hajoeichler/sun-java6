@@ -1,4 +1,4 @@
-sun-java6 (6.35-1) unstable; urgency=low
+sun-java6 (6.35-1) unstable; urgency=high
 
   * SECURITY UPDATE: multiple upstream vulnerabilities. Upstream fixes:
      - (CVE-2012-4681 - US-CERT Alert TA12-240A and Vulnerability Note VU#636312: unspecified vulnerability fixed in 6u33 (Security)
